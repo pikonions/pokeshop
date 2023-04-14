@@ -114,3 +114,24 @@ flex-wrap: wrap;
     left:50% ;
     transform: translate(-50%);
 }
+h4{
+    color:yellowgreen ;
+    font-weight: normal;
+}
+.rating .fa{
+    color:yellow;
+}
+.col-4:hover{
+    transform: translateY(-5px);
+}
+.offer{
+    background: radial-gradient(#fff,darkolivegreen);
+    margin-top: 80px;
+    padding: 30px 0;
+}
+.col-2 .offer-img{
+    padding: 50px;
+}
+small{
+    color:darkgoldenrod;
+}
