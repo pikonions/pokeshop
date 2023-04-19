@@ -135,3 +135,19 @@ h4{
 small{
     color:darkgoldenrod;
 }
+.about{
+    background-image:url("image/gede.png");
+    background-size: cover;
+    width: 100%;
+    padding: 70px;
+}
+.about h1{
+    text-align: center;
+    padding: 10px;
+}
+.about-content{
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 30px;
+    box-shadow: 0 0 20px 0 black;
+    color: aliceblue;
+}
